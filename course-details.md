@@ -1,9 +1,7 @@
-This is the description we show on the course page [here](https://lab.github.com/CodersCamp2020/cc2020_test_learningpath1). This first paragraph will be featured at the top of the page so make it great.
-​
+Kurs przeznaczony dla uczestników największego otwartego kursu programowania w Polsce [CodersCamp](coderscamp.edu.pl).
 
 ​
-Be sure to tell the learner about the technology you are teaching, why they should learn it, how they can use it, and what you will teach them.
+Materiały zamieszczone w tym kursie można oczywiście przerabiać samemu, ale aby nauczyć się na nich jak najwięcej i brać udział w projektach grupowych, warto skorzystać z pomocy mentora w ramach kursu CodersCamp 2020.
 ​
 
-
-Include information on how they can reach you for questions about the content or course. 
+Wszelkie informacje o kolejnych edycjach kursu znajdują się na stronie internetowej coderscamp.edu.pl
